@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+.*.swp
+/build
+
+# this is right now the build executable
+/python
+/libpython.a
+
+# created via script
+/pylib/pylib.zip
+
+# Xcode
+xcuserdata
