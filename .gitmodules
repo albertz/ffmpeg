@@ -1,0 +1,3 @@
+[submodule "mod_pbxproj"]
+	path = mod_pbxproj
+	url = git@github.com:albertz/mod-pbxproj.git
